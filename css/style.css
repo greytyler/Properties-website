@@ -22,7 +22,7 @@ body {
 }
 
 * {
-    outline: none;
+    outline: none
 }
 
 *:not(.slick-track):not(.slick-list) {
