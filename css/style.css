@@ -23,6 +23,7 @@ body {
 
 * {
     outline: none
+	scroll-behavior: smooth;
 }
 
 *:not(.slick-track):not(.slick-list) {
