@@ -1,2 +1,2 @@
 # Properties-website
- Real Estate property website for finding your dream home
+ Real Estate properties website for finding your dream home
